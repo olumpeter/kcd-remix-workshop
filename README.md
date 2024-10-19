@@ -1,2 +1,2 @@
-# kcd-remix-workshop
+# kcd-remix-workshop-notes
 Remix Workshop By Kent C. Dodds
